@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test : MonoBehaviour {
 
-	public float spacing = 1;
+	public float spacing = .88f;
 	public int rows=100,columns=100;
 	public float weight = .2f;
 	public int numCities=50;
